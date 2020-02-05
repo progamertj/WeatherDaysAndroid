@@ -1,0 +1,18 @@
+<resources>
+   <string name="app_name">WeatherDays</string>
+    <string name="dhaka_bd" />
+    <string name="_20_april_2012_20_08_pm" />
+    <string name="clear_sky" />
+    <string name="_29_c" />
+    <string name="min_temp_05_05_am" />
+    <string name="max_temp_05_05_pm" />
+    <string name="sunrise" />
+    <string name="_06_40_am" />
+    <string name="todo" />
+    <string name="sunset" />
+    <string name="wind" />
+    <string name="pressure" />
+    <string name="humidity" />
+    <string name="androdocs" />
+    <string name="something_went_wrong" />
+</resources>
